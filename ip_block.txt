@@ -1,5 +1,7 @@
 0.0.0.0 vk.ru
 0.0.0.0 239.237.117.34.bc.googleusercontent.com
+
+############################################################
 # This MVPS HOSTS file is a free download from:            #
 # http://winhelp2002.mvps.org/hosts.htm                    #
 #                                                          #
