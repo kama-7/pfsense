@@ -30,6 +30,7 @@
 # [My_ip_list]
 
 0.0.0.0 vk.ru
+0.0.0.0 m.vk.ru
 
 # [Misc A - Z]
 0.0.0.0 fr.a2dfp.net
