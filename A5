@@ -1,0 +1,81 @@
+#iOS
+0.0.0.0 c.whatsapp.net
+0.0.0.0 c1.whatsapp.net
+0.0.0.0 c2.whatsapp.net #phone number check
+0.0.0.0 c3.whatsapp.net #initial login, this only used port 5222
+0.0.0.0 c4.whatsapp.net
+0.0.0.0 c5.whatsapp.net #backup
+0.0.0.0 c1.whatsapp.net
+0.0.0.0 c2.whatsapp.net
+0.0.0.0 c3.whatsapp.net #(all con. stuff are for the handshakes -> ^^ over 443 or 5222)
+0.0.0.0 c4.whatsapp.net
+0.0.0.0 c5.whatsapp.net
+0.0.0.0 c6.whatsapp.net
+0.0.0.0 c7.whatsapp.net
+0.0.0.0 c8.whatsapp.net
+0.0.0.0 c9.whatsapp.net
+0.0.0.0 c10.whatsapp.net
+#Android OS
+0.0.0.0 e.whatsapp.net
+0.0.0.0 e1.whatsapp.net
+0.0.0.0 e2.whatsapp.net
+0.0.0.0 e3.whatsapp.net #(all c. stuff are for the handshakes -> ^^ over 443 or 5222)
+0.0.0.0 e4.whatsapp.net #initial
+0.0.0.0 e5.whatsapp.net #initial
+0.0.0.0 e6.whatsapp.net #initial
+0.0.0.0 e7.whatsapp.net
+0.0.0.0 e8.whatsapp.net
+0.0.0.0 e9.whatsapp.net
+0.0.0.0 e10.whatsapp.net
+0.0.0.0 e11.whatsapp.net
+0.0.0.0 e12.whatsapp.net
+0.0.0.0 e13.whatsapp.net
+0.0.0.0 e14.whatsapp.net
+0.0.0.0 e15.whatsapp.net
+0.0.0.0 e16.whatsapp.net
+0.0.0.0 e17.whatsapp.net
+0.0.0.0 e18.whatsapp.net
+0.0.0.0 e19.whatsapp.net
+0.0.0.0 e20.whatsapp.net
+#Web <-> Client
+0.0.0.0 s.whatsapp.net
+0.0.0.0 s1.whatsapp.net
+0.0.0.0 s2.whatsapp.net
+0.0.0.0 s3.whatsapp.net #(all c. stuff are for the handshakes -> ^^ over 443 or 5222)
+0.0.0.0 s4.whatsapp.net
+0.0.0.0 s5.whatsapp.net
+0.0.0.0 s6.whatsapp.net
+0.0.0.0 s7.whatsapp.net
+0.0.0.0 s8.whatsapp.net
+0.0.0.0 s9.whatsapp.net
+0.0.0.0 s10.whatsapp.net
+#https:#sro.whatsapp.net/client/iphone/iq.php #(<- for post-request -> sro.whatsapp.net)
+#https:#sro.whatsapp.net/client/android/iq.php #(^^)
+#static.reverse.softlayer.com #(main/status/auth/..)
+
+#WhatsApp.com site only (A record):
+0.0.0.0 192.155.212.203
+0.0.0.0 184.173.147.38
+0.0.0.0 184.173.147.39
+0.0.0.0 192.155.212.202
+
+#NS records:
+0.0.0.0 ns2.p13.dynect.net 204.13.250.13
+0.0.0.0 ns1.p13.dynect.net 208.78.70.13
+0.0.0.0 ns3.p13.dynect.net 208.78.71.13
+0.0.0.0 ns4.p13.dynect.net 204.13.251.13
+
+#Webchat (web.whatsapp.com):
+0.0.0.0 158.85.224.171
+0.0.0.0 158.85.224.176
+0.0.0.0 158.85.224.179
+0.0.0.0 158.85.224.180
+0.0.0.0 158.85.224.175
+0.0.0.0 158.85.224.178
+0.0.0.0 158.85.224.172
+0.0.0.0 158.85.224.173
+0.0.0.0 158.85.224.177
+0.0.0.0 158.85.224.174
+
+#Crash Log
+0.0.0.0 android-crashlog.whatsapp.net
