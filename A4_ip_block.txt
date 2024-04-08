@@ -35,6 +35,8 @@
 0.0.0.0 m.vk.ru
 0.0.0.0 239.237.117.34.bc.googleusercontent.com
 0.0.0.0 www.tiktok.com
+0.0.0.0 gs-loc.apple.com
+0.0.0.0 17.242.179.27
 
 #iOS
 0.0.0.0 c.whatsapp.net
