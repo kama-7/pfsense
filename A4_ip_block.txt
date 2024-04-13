@@ -37,6 +37,7 @@
 0.0.0.0 www.tiktok.com
 0.0.0.0 gs-loc.apple.com
 0.0.0.0 17.242.179.27
+0.0.0.0 87.250.251.42
 
 #iOS
 0.0.0.0 c.whatsapp.net
