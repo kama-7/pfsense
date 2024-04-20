@@ -40,6 +40,7 @@
 0.0.0.0 imgr1.imgzona.video
 0.0.0.0 gadolinium.video.zagonka.org
 0.0.0.0 50.7.232.194
+0.0.0.0 beggins.newplayjj.com
 0.0.0.0 m.vk.ru
 0.0.0.0 239.237.117.34.bc.googleusercontent.com
 0.0.0.0 www.tiktok.com
