@@ -39,7 +39,6 @@
 0.0.0.0 *.vfsdrwrwe.online
 0.0.0.0 imgr1.imgzona.video
 0.0.0.0 gadolinium.video.zagonka.org
-0.0.0.0 50.7.232.194
 0.0.0.0 beggins.newplayjj.com
 0.0.0.0 m.vk.ru
 0.0.0.0 239.237.117.34.bc.googleusercontent.com
@@ -47,6 +46,7 @@
 0.0.0.0 gs-loc.apple.com
 0.0.0.0 17.242.179.27
 0.0.0.0 87.250.251.42
+0.0.0.0 50.7.232.194
 
 #iOS
 0.0.0.0 c.whatsapp.net
