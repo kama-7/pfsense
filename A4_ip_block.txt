@@ -32,21 +32,14 @@
 ##########################[My_ip_list]#######################
 
 0.0.0.0 vk.ru
-0.0.0.0 apir1.mzona.net
-0.0.0.0 filmix.date
-0.0.0.0 kinovod120224.cc
-0.0.0.0 prx-ams.ukrtelcdn.net
 0.0.0.0 *.vfsdrwrwe.online
-0.0.0.0 imgr1.imgzona.video
-0.0.0.0 gadolinium.video.zagonka.org
-0.0.0.0 beggins.newplayjj.com
 0.0.0.0 m.vk.ru
 0.0.0.0 239.237.117.34.bc.googleusercontent.com
 0.0.0.0 www.tiktok.com
 0.0.0.0 gs-loc.apple.com
 0.0.0.0 17.242.179.27
 0.0.0.0 87.250.251.42
-0.0.0.0 50.7.232.194
+
 
 #iOS
 0.0.0.0 c.whatsapp.net
