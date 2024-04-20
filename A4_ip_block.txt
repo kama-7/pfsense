@@ -32,6 +32,7 @@
 ##########################[My_ip_list]#######################
 
 0.0.0.0 vk.ru
+0.0.0.0 apir1.mzona.net
 0.0.0.0 m.vk.ru
 0.0.0.0 239.237.117.34.bc.googleusercontent.com
 0.0.0.0 www.tiktok.com
