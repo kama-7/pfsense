@@ -39,9 +39,13 @@
 0.0.0.0 securemvt.apple.com
 0.0.0.0 stocks-analytics-events.apple.com
 0.0.0.0 stocks-analytics-events.news.apple-dns.net# Created with:
+###
+##
+#
 0.0.0.0 www.mamba.ru
-
-
+0.0.0.0 sso.dzen.ru
+0.0.0.0 sso.passport.yandex.ru
+#
 # LineageOS 14.1
 # Android 6 on Huawei
 # Android 8 OnePlus
@@ -49,16 +53,23 @@
 # Facebook
 # graph.facebook.com # needed for facebook groups
 # b-graph.facebook.com # needed for facebook pages manager
+#
 0.0.0.0 a-graph.facebook.com
 0.0.0.0 graph.instagram.com
+#
 # b-api.facebook.com # required for Facebook Messenger login on mobile
 # edge-mqtt.facebook.com # needed for facebook groups
+#
 0.0.0.0 mqtt-mini.facebook.com
+#
 # Crashlytics
+#
 0.0.0.0 e.crashlytics.com
 0.0.0.0 reports.crashlytics.com
 0.0.0.0 settings.crashlytics.com
+#
 # Uncatagorized
+#
 0.0.0.0 ads.twitter.com
 0.0.0.0 app-measurement.com
 0.0.0.0 events.appsflyer.com
@@ -105,7 +116,9 @@
 0.0.0.0 m.quantcount.com
 0.0.0.0 app.adjust.com
 0.0.0.0 utraffic.engine.adglare.net
+#
 # Google
+#
 0.0.0.0 www.googleadservices.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 securepubads.g.doubleclick.net
@@ -149,7 +162,7 @@
 0.0.0.0 cert-test.sandbox.google.com
 0.0.0.0 collect.myhomescreen.tv
 0.0.0.0 usage.myhomescreen.tv
-
+#
 0.0.0.0 collect-us-fy2014.myhomescreen.tv
 0.0.0.0 collect-us-fy2015.myhomescreen.tv
 0.0.0.0 collect-us-fy2016.myhomescreen.tv
@@ -159,7 +172,7 @@
 0.0.0.0 collect-us-fy2020.myhomescreen.tv
 0.0.0.0 collect-us-fy2021.myhomescreen.tv
 0.0.0.0 collect-us-fy2022.myhomescreen.tv
-
+#
 0.0.0.0 collect-eu-fy2014.myhomescreen.tv
 0.0.0.0 collect-eu-fy2015.myhomescreen.tv
 0.0.0.0 collect-eu-fy2017.myhomescreen.tv
@@ -169,7 +182,7 @@
 0.0.0.0 collect-eu-fy2020.myhomescreen.tv
 0.0.0.0 collect-eu-fy2021.myhomescreen.tv
 0.0.0.0 collect-eu-fy2022.myhomescreen.tv
-
+#
 0.0.0.0 usage-eu-fy2014.myhomescreen.tv
 0.0.0.0 usage-eu-fy2015.myhomescreen.tv
 0.0.0.0 usage-eu-fy2016.myhomescreen.tv
@@ -179,7 +192,7 @@
 0.0.0.0 usage-eu-fy2020.myhomescreen.tv
 0.0.0.0 usage-eu-fy2021.myhomescreen.tv
 0.0.0.0 usage-eu-fy2022.myhomescreen.tv
-
+#
 0.0.0.0 usage-us-fy2014.myhomescreen.tv
 0.0.0.0 usage-us-fy2015.myhomescreen.tv
 0.0.0.0 usage-us-fy2016.myhomescreen.tv
@@ -189,7 +202,7 @@
 0.0.0.0 usage-us-fy2020.myhomescreen.tv
 0.0.0.0 usage-us-fy2021.myhomescreen.tv
 0.0.0.0 usage-us-fy2022.myhomescreen.tv
-
+#
 #mhc-ajax-eu.myhomescreen.tv # internet connection test
 #mhc-ajax-eu-s2.myhomescreen.tv # internet connection test
 #mhc-ajax-us.myhomescreen.tv # internet connection test
@@ -202,8 +215,7 @@
 #mhc-xpana-us.myhomescreen.tv # required to start apps
 #vcs.vdspf.com  //  if blocked, notified of new firmware but unable to download/install
 0.0.0.0 x2.vindicosuite.com
-
-
+#
 # Sony Bravia
 # needed for applications
 # needed for applications, if blocked error "no internet connection"
@@ -230,7 +242,7 @@
 #platform.cid.samba.tv #See Toshiba
 0.0.0.0 preferences.cid.samba.tv
 0.0.0.0 bravia-cfgdst-ore-pro.bda.ndmdhs.com
-
+#
 # LG
 0.0.0.0 ad.lgappstv.com
 0.0.0.0 ibis.lgappstv.com
@@ -257,7 +269,7 @@
 0.0.0.0 us.recommend.lgtvcommon.com
 0.0.0.0 us.lgsmartad.com
 0.0.0.0 us.service.lgtvcommon.com
-
+#
 # Philips
 #deviceportal.nettvservices.com # needed for apps
 #epg.corio.com # needed for apps
@@ -265,7 +277,7 @@
 0.0.0.0 nettv.corio.com
 #www.ecdinterface.philips.com # Philips Hue Bridge
 0.0.0.0 ad.nettvservices.com
-
+#
 # Samsung
 0.0.0.0 abtauthprd.samsungcloudsolution.com
 #acr0.samsungcloudsolution.com # https://www.reddit.com/r/oisd_blocklist/comments/m6j6fg/oisd_domain_blocklist/h3hulvq
@@ -366,7 +378,7 @@
 #osb-ussvc.samsungqbe.com # required for TV Plus
 #otn.samsungcloudcdn.com # Prevents updates on UE49KS7000 and QE55Q9FNA; https://github.com/Perflyst/PiHoleBlocklist/issues/60
 #ns11.whois.co.kr # Prevents Series 7 TVs from opening YouTube
-
+#
 # Roku
 0.0.0.0 scribe.logs.roku.com
 0.0.0.0 midland.logs.roku.com
@@ -376,13 +388,13 @@
 0.0.0.0 display.ravm.tv
 0.0.0.0 ravm.tv
 0.0.0.0 mobile.logs.roku.com
-
+#
 # Vizio
 # Required for Vizio smart tv features
 #api.vizio.com
 #images.vizio.com
 #announcements.vizio.com # No reason to block this
-
+#
 # HBBTV
 0.0.0.0 cdn.hbbtv.smartclip.net
 0.0.0.0 hbbtv-1.eurosport.com
@@ -403,7 +415,7 @@
 0.0.0.0 hbbtv.superrtl.de
 0.0.0.0 p-hbbtv.superrtl.de
 0.0.0.0 hbbtv.3sat.de
-
+3
 # Other useless connections from Smart-TV
 0.0.0.0 2mdn.net
 0.0.0.0 ad.71i.de
@@ -438,7 +450,7 @@
 0.0.0.0 tvmeta-dynamic.tvinteractive.tv
 0.0.0.0 alphonso.tv
 0.0.0.0 tv.ads.spotx.tv
-
+#
 # Netflix
 # secure, api-global, and appboot break Netflix
 #secure.netflix.com                   
@@ -448,18 +460,17 @@
 0.0.0.0 ichnaea.netflix.com
 0.0.0.0 customerevents.netflix.com
 #nrdp.prod.ftl.netflix.com  # https://oisd.nl/excludes.php?w=nrdp.prod.ftl.netflix.com
-
-
+#
 # Spotify
 #api-tv.spotify.com # required for TV and PS4 spotify app
-
+#
 # Hulu
 0.0.0.0 api.distribution.hulu.com
-
+#
 # Sharp Smart TV using Opera OS (thanks to sml156)
 # time-a.timefreq.bldrdoc.gov          # probably not a good idea to block this one
 # api.accuweather.com                  # probably not a good idea to block this one
-
+#
 # Hisense Smart TV
 0.0.0.0 api-gps-em.hismarttv.com
 0.0.0.0 auth-em.hismarttv.com
@@ -476,34 +487,34 @@
 0.0.0.0 api.us.hismarttv.com
 0.0.0.0 api.euro.hismarttv.com
 0.0.0.0 api.eu.hismarttv.com
-
+#
 # SiliconDust HDHomeRun
 #tuner-api.hdhomerun.com # required for firmware update
 #location-api.hdhomerun.com # required for firmware update
-
+#
 # Foxtel Australia cable/satellite set-top box
 0.0.0.0 _xmpp-client._tcp.managed.xmpp.foxtel.com.au
 0.0.0.0 managed.xmpp.foxtel.com.au
 0.0.0.0 foxtel-prod-events.digitalsmiths.net
 0.0.0.0 e2.resources.foxtel.com.au
 0.0.0.0 a1.resources.foxtel.com.au
-
+#
 # Yamaha AV receivers
 #avpro.global.yamaha.com # Blocks system updates on RX-V685
-
+#
 # Toshiba
 0.0.0.0 events.cid.samba.tv
 0.0.0.0 platform.cid.samba.tv
 #file2fxm.azureedge.net # https://oisd.nl/excludes.php?w=file2fxm.azureedge.net
 0.0.0.0 7345023508.fxmconnect.com
 0.0.0.0 7345023508.fxm9485766783.com
-
+#
 # Xioami Mi TV
 0.0.0.0 mitv.tracking.intl.miui.com
 0.0.0.0 tracking.intl.miui.com
 0.0.0.0 data.mistat.intl.xiaomi.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
-
+#
 # Android TV (including Nvidia Shield TV)
 0.0.0.0 androidtvchannels-pa.googleapis.com
 0.0.0.0 androidtvwatsonfe-pa.googleapis.com
