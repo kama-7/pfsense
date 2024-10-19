@@ -45,6 +45,7 @@
 ##
 #
 #####0.0.0.0 detectportal.firefox.com
+0.0.0.0 talosintelligence.com
 0.0.0.0 sectigo.com
 0.0.0.0 www.sectigo.com
 0.0.0.0 example.org
