@@ -44,6 +44,7 @@
 ##
 #
 #####0.0.0.0 detectportal.firefox.com
+0.0.0.0 config.edge.skype.com
 0.0.0.0 faves.grow.me
 0.0.0.0 itslinuxfoss.com
 0.0.0.0 getpocket.com
