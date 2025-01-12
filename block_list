@@ -52,6 +52,9 @@
 ##
 #
 #####0.0.0.0 detectportal.firefox.com
+0.0.0.0 rebus.rustore.ru
+0.0.0.0 static.smi2.net
+0.0.0.0 smi2.ru
 0.0.0.0 kulturologia.ru
 0.0.0.0 config.edge.skype.com
 0.0.0.0 faves.grow.me
