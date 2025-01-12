@@ -44,13 +44,15 @@
 0.0.0.0 cdn.shopify.com
 0.0.0.0 api.helloextend.com
 0.0.0.0 stocks-analytics-events.apple.com
-0.0.0.0 stocks-analytics-events.news.apple-dns.net# Created with:
+0.0.0.0 stocks-analytics-events.news.apple-dns.net
+0.0.0.0 telegram.org
 #####
 ####
 ###
 ##
 #
 #####0.0.0.0 detectportal.firefox.com
+0.0.0.0 kulturologia.ru
 0.0.0.0 config.edge.skype.com
 0.0.0.0 faves.grow.me
 0.0.0.0 itslinuxfoss.com
