@@ -1,4 +1,10 @@
 0.0.0.0 vk.ru
+0.0.0.0 vd480.okcdn.ru
+0.0.0.0 *.okcdn.ru
+0.0.0.0 *.vkuser.net
+0.0.0.0 ok9-1.vkuser.net
+0.0.0.0 ok9-10.vkuser.net
+0.0.0.0 vkuser.net
 0.0.0.0 live-detector.svc.transifex.net
 0.0.0.0 api.embess.ws
 0.0.0.0 fazhzcezbdi.matham.ws
