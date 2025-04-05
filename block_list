@@ -12,7 +12,27 @@
 0.0.0.0 api.embess.ws
 0.0.0.0 fazhzcezbdi.matham.ws
 0.0.0.0 sdk-api.apptracer.ru
+########
+######
+####
+0.0.0.0 kaspersky.com  
+0.0.0.0 kas.prg  
+0.0.0.0 kavcdn.com  
+0.0.0.0 kls-akamai.com  
+0.0.0.0 kls19.com  
+0.0.0.0 klscdn.net  
+0.0.0.0 ksn.kaspersky.com  
+0.0.0.0 downloads.upd.kaspersky.com  
+0.0.0.0 reports.kaspersky-labs.com  
+0.0.0.0 smetrics.kaspersky.com  
+0.0.0.0 support.kaspersky.com  
+0.0.0.0 stats.kaspersky.com  
+0.0.0.0 upd.kaspersky.com  
+0.0.0.0 dm.kaspersky-labs.com  
+0.0.0.0 ds.kaspersky.com 
 0.0.0.0 ds.kaspersky.com
+0.0.0.0 .kaspersky.com
+#######
 0.0.0.0 api.apiok.net
 0.0.0.0 api.vk.com
 0.0.0.0 olympus.frntroy.org
