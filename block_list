@@ -54,6 +54,7 @@
 0.0.0.0 d2.armexfort.uk^$important
 0.0.0.0 www.msftconnecttest.com^$important
 0.0.0.0 cdn.samsungcloudsolution.com^$important
+0.0.0.0 error-tracking.reddit.com
 
 
 0.0.0.0 vk.ru
