@@ -55,7 +55,7 @@
 0.0.0.0 www.msftconnecttest.com^$important
 0.0.0.0 cdn.samsungcloudsolution.com^$important
 0.0.0.0 error-tracking.reddit.com
-
+0.0.0.0 appleid.cdn-apple.com
 
 0.0.0.0 vk.ru
 0.0.0.0 vkpns.rustore.ru
