@@ -4,9 +4,24 @@
 0.0.0.0 shavar.services.mozilla.com
 0.0.0.0 normandy.cdn.mozilla.net
 0.0.0.0 normandy.services.mozilla.com
-0.0.0.0 mozilla.cloudflare-dns.com
+0.0.0.0 mozilla.cloudflare-dns.com 
+0.0.0.0 outer.silotis.us
+0.0.0.0 tmfsdktcp.m.qq.com
+0.0.0.0 imageban.ru
+0.0.0.0 lenovomm.com
+0.0.0.0 osfsr.lenovomm.com
+0.0.0.0 cfg.imtt.qq.com
+0.0.0.0 android.bugly.qq.com
+0.0.0.0 app-measurement.com
+0.0.0.0 fengkongcloud.com
+0.0.0.0 volces.com
+0.0.0.0 shields.io
+0.0.0.0 android-safebrowsing.google.com
+0.0.0.0 *.m.qq.com
+0.0.0.0 lenovo.com.cn
 
 
+0.0.0.0 app-measurement.com
 0.0.0.0 ds.kaspersky.com^$important
 0.0.0.0 ksn-a-stat-geo.kaspersky-labs.com^$important
 0.0.0.0 *.kaspersky.com^$important
